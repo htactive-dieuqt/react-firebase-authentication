@@ -8,7 +8,6 @@ import * as ROLES from '../../constants/roles';
 
 const SignUpPage = () => (
   <div>
-    <h1>SignUp</h1>
     <SignUpForm />
   </div>
 );
@@ -35,7 +34,6 @@ const ERROR_MSG_ACCOUNT_EXISTS = `
 class SignUpFormBase extends Component {
   constructor(props) {
     super(props);
-
     this.state = { ...INITIAL_STATE };
   }
 

@@ -3,9 +3,14 @@
   "version": "0.2.0",
   "private": true,
   "dependencies": {
+    "@reduxjs/toolkit": "^1.4.0",
+    "antd": "^4.6.3",
+    "axios": "^0.20.0",
     "firebase": "^5.6.0",
-    "react": "^16.6.3",
-    "react-dom": "^16.6.3",
+    "install": "^0.13.0",
+    "react": "^16.7.0-alpha.2",
+    "react-dom": "^16.7.0-alpha.2",
+    "react-redux": "^7.2.1",
     "react-router-dom": "^4.3.1",
     "react-scripts": "2.1.1",
     "recompose": "^0.30.0"

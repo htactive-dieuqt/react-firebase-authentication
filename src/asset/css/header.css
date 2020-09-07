@@ -1,0 +1,96 @@
+.header1 .headerlist a {
+    margin-left: 15px;
+    color: white;
+}
+
+.header .header2 .inputsearch {
+    margin-top: 20px;
+}
+
+.header .header2 img {
+    width: 170px;
+    height: 80px;
+}
+
+.header .header2 .card {
+    margin-top: 15px;
+    font-size: 2vw;
+    color: white;
+}
+
+.ant-btn-primary {
+    background: #f53d2d;
+    border-color: #f53d2d;
+    height: 34px;
+    margin-right: 3px;
+}
+
+.ant-btn-primary:hover {
+    background: #fb5533;
+}
+
+
+/* .ant-input-group-wrapper {
+    border: 1px solid #d9d9d9;
+
+} */
+
+.ant-input-affix-wrapper {
+    border: none !important;
+}
+
+.header {
+    background: linear-gradient(-180deg, #f53d2d, #f63);
+}
+
+.productincard .imgcard {
+    background-position: 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+    width: 22.25rem;
+    height: 10.25rem;
+    background-size: 10vw;
+    background-image: url(https://luzu.vn/public/asset/img/luzu-empty-cart.png);
+}
+
+.productincard p {
+    text-align: center;
+}
+
+.btnsignin {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 120px;
+    margin-top: -21px;
+}
+
+.headerlist {
+    position: relative;
+    top: 1px;
+}
+
+div#user {
+    top: 0;
+}
+
+.showaccount {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.ant-btn-link {
+    color: white;
+}
+
+.cartItem .cartImg img {
+    width: 50%;
+}
+
+.productincart {
+    width: 20vw;
+}

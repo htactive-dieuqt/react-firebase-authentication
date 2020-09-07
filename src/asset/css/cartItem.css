@@ -1,0 +1,9 @@
+.CartCheckout .cartItem img{
+    width: 5vw;
+}
+.CartCheckout .cartItem {
+    scroll-padding-bottom: 5px;
+}
+.CartCheckout{
+    padding-top: 5px;
+}

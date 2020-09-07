@@ -1,0 +1,23 @@
+#imgPF {
+    width: 135px;
+    height: 130px;
+}
+
+.imge-upload>input {
+    display: none;
+}
+
+.imge-upload {
+    text-align: center;
+    margin-bottom: 30px;
+    padding-top: 35px;
+}
+
+.btnsaveEditPF {
+    margin-left: 35vw;
+    margin-bottom: 20px;
+}
+
+.editForm {
+    margin-top: 20px;
+}

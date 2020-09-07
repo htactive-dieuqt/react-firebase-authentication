@@ -1,0 +1,36 @@
+.productdetail .productimg {
+    width: 28vw;
+    height: 32vw;
+}
+
+.productdetail {
+    padding-bottom: 3vw;
+    padding-top: 3vw;
+}
+
+.detail .detail2 {
+    text-align: start;
+    padding-top: 1vw;
+}
+
+.detail .detail1 {
+    text-align: start;
+    padding-top: 1vw;
+}
+
+.btnbuy {
+    padding-top: 3vw;
+}
+
+Button {
+    margin-right: 15px;
+}
+
+.btnplus {
+    margin-right: 0px;
+}
+
+
+/* .productdetail1 .check{
+   
+} */
